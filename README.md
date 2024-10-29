@@ -23,7 +23,7 @@ Troll memes are challenging to moderate due to their ambiguous, often culturally
 
 ## Data Sources
 
-This project utilizes a publicly available dataset(https://github.com/eftekhar-hossain/MemoSen-LREC2022) comprising 4300 labeled troll memes for training and 120 labeled memes for testing. Each meme includes an image and textual caption, supporting multimodal analysis. The dataset represents diverse meme styles and themes, ensuring exposure to various forms of troll content. The data is split into training, validation, and testing subsets to assess model performance in detecting troll memes across different content types.
+This project utilizes a publicly available dataset(https://github.com/eftekhar-hossain/MemoSen-LREC2022) comprising 4300 labeled troll memes for training and 1200 labeled memes for testing. Each meme includes an image and textual caption, supporting multimodal analysis. The dataset represents diverse meme styles and themes, ensuring exposure to various forms of troll content. The data is split into training, validation, and testing subsets to assess model performance in detecting troll memes across different content types.
 
 ## Methodology
 
