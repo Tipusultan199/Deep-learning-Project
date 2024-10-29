@@ -17,17 +17,13 @@ Project Proposal:
 
 Troll memes are increasingly common on social media, often designed to provoke emotional responses, spread misinformation, or incite conflict. These memes pose a challenge for detection due to their multimodal nature, blending subtle, sarcastic, or hateful messages within both images and text. Traditional detection systems, which primarily focus on either text or image analysis, often fail to capture the nuanced relationships between these elements. This project addresses the limitations of single-modality detection by developing a multimodal approach for improved troll meme identification, aiming to enhance content moderation and reduce harmful content online.
 
-## GitHub Repository
-
-[Deep Learning Project Repository](https://github.com/Tipusultan199/Deep-learning-Project)
-
 ## Relevance
 
 Troll memes are challenging to moderate due to their ambiguous, often culturally contextual nature. Detecting such content requires a sophisticated approach that integrates both visual and textual analysis. With the rapid spread of memes across social media, developing accurate detection systems is essential for maintaining safe and healthy digital environments. Leveraging advancements in deep learning and multimodal fusion, this project seeks to enhance troll meme detection accuracy, addressing current limitations in single-modality approaches.
 
 ## Data Sources
 
-This project utilizes a publicly available dataset comprising 3,265 labeled troll memes for training and 816 labeled memes for testing. Each meme includes an image and textual caption, supporting multimodal analysis. The dataset represents diverse meme styles and themes, ensuring exposure to various forms of troll content. The data is split into training, validation, and testing subsets to assess model performance in detecting troll memes across different content types.
+This project utilizes a publicly available dataset(https://github.com/eftekhar-hossain/MemoSen-LREC2022) comprising 4300 labeled troll memes for training and 120 labeled memes for testing. Each meme includes an image and textual caption, supporting multimodal analysis. The dataset represents diverse meme styles and themes, ensuring exposure to various forms of troll content. The data is split into training, validation, and testing subsets to assess model performance in detecting troll memes across different content types.
 
 ## Methodology
 
