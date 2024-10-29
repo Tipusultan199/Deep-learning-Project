@@ -27,7 +27,7 @@ This project utilizes a publicly available dataset(https://github.com/eftekhar-h
 
 ## Methodology
 
-The project explores multiple multimodal deep-learning architectures to identify the most effective model for troll meme detection. For image processing, we experiment with Vision Transformer (ViT), ResNet50, and VGG16, each offering unique feature extraction capabilities: ViT for global attention, ResNet50 for robust features, and VGG16 for simplicity and accuracy in visual tasks. For text analysis, we evaluate language models like BERT, DeBERTa, GPT-2, and GPT-4, known for their strengths in understanding contextual and semantic relationships in text. We also test zero-shot and few-shot learning scenarios with large language models to enable classification with minimal labeled data. Through this dataset, we aim to identify the optimal multimodal fusion technique, comparing various architectures and strategies.
+The project explores multiple multimodal deep-learning architectures to identify the most effective model for troll meme detection. For image processing, we experiment with Vision Transformer (ViT), ResNet50, and VGG16, each offering unique feature extraction capabilities: ViT for global attention, ResNet50 for robust features, and VGG16 for simplicity and accuracy in visual tasks. For text analysis, we evaluate language models like BERT, DeBERTa, and GPT-2, known for their strengths in understanding contextual and semantic relationships in text. We also test zero-shot and few-shot learning scenarios with large language models to enable classification with minimal labeled data. Through this dataset, we aim to identify the optimal multimodal fusion technique, comparing various architectures and strategies.
 
 ## Evaluation Strategy
 
