@@ -6,13 +6,12 @@ Team Members: Tipu Sultan
 
 GitHub: https://github.com/Tipusultan199/Deep-learning-Project
 
-Project Proposal: https://drive.google.com/file/d/1WiATFt6Olp44OrA1RAUP9Y4avCu8ojGo/view?usp=sharing
----------------------------------------
+Project Proposal:
 
 # MemesViTa: A Novel Multimodal Fusion Technique for Troll Meme Identification
 
 **Author:** Tipu Sultan  
-**Date:** October 13, 2024  
+
 
 ## Problem
 
