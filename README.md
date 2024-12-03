@@ -14,8 +14,7 @@ Project Proposal:
 
 
 ## Problem
-
-Troll memes are increasingly common on social media, often designed to provoke emotional responses, spread misinformation, or incite conflict. These memes pose a challenge for detection due to their multimodal nature, blending subtle, sarcastic, or hateful messages within both images and text. Traditional detection systems, which primarily focus on either text or image analysis, often fail to capture the nuanced relationships between these elements. This project addresses the limitations of single-modality detection by developing a multimodal approach for improved troll meme identification, aiming to enhance content moderation and reduce harmful content online.
+Memes, blending visual and textual modalities, are a prominent medium for humor, satire, and, often, trolling on social media. Troll memes spread misinformation, provoke negativity, and disrupt discourse, presenting challenges for automated detection. Traditional detection models either analyze text or image modalities independently or are tailored for specific languages, making them less effective for diverse, multilingual contexts. The complexity of troll meme detection lies in understanding subtle interactions between modalities and interpreting cultural and linguistic nuances embedded in meme content. Addressing these challenges is critical for scalable and inclusive content moderation.
 
 ## Relevance
 
