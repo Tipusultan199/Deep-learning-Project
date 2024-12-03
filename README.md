@@ -8,9 +8,9 @@ GitHub: https://github.com/Tipusultan199/Deep-learning-Project
 
 Project Proposal:
 
-# MemesViTa: A Novel Multimodal Fusion Technique for Troll Meme Identification
+# MemeFusionNet: A Cross-Linguistic Multimodal Model for Identifying Troll Memes
 
-**Author:** Tipu Sultan  
+**Author:** Tipu Sultan  , Dr. Hadi Akbarpour
 
 
 ## Problem
